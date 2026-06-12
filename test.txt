@@ -1,1 +1,1 @@
-city:CHN
+city:BLR
